@@ -1,6 +1,5 @@
-# Calcular área Retângulo
+// Calcular área Retângulo
 
-```
 import javax.swing.JOptionPane;
 
 public class JGPscLab02EX05 {
@@ -19,4 +18,3 @@ public class JGPscLab02EX05 {
     }
     
 }
-```

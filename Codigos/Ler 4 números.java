@@ -1,8 +1,5 @@
-#  Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o resultado. 
+// Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o resultado. 
 
- 
-
-```
 public class JGPscLab02EX02 {
     public static void main(String[] args) {
         
@@ -27,4 +24,3 @@ public class JGPscLab02EX02 {
     }
     
 }
-```

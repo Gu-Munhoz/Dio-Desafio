@@ -1,6 +1,5 @@
-# Ler um valor inteiro e exibir seu antecessor
+// Ler um valor inteiro e exibir seu antecessor
 
-```
 import javax.swing.JOptionPane;
 
 public class JGPscLab02EX04 {
@@ -16,4 +15,3 @@ public class JGPscLab02EX04 {
     }
     
 }
-```
