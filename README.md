@@ -4,5 +4,13 @@
 ##### Operações Matemáticas básicas em Java.
 
 - ```
-  Ler a cotação do dólar e a quantidade de dólares. Converter para real e mostrar o resultado.
+  Ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
+  ```
+
+- ```
+  Ler 4 números, calcular o quadrado para cada um, somar todos os quadrados e mostrar o resultado.
+  ```
+
+- ```
+  Ler um valor inteiro e exibir seu antecessor.
   ```
