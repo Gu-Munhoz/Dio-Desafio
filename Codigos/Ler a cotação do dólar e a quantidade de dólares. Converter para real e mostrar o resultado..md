@@ -10,7 +10,7 @@ public class Dolar {
 
 ​			Double cotacao = Double.parseDouble(n1);
 
- 		   String n2=JOptionPane.showInputDialog("Digite a quantidade de dólares:");
+ 		    String n2=JOptionPane.showInputDialog("Digite a quantidade de dólares:");
 
 ​		    Double dolares = Double.parseDouble(n2);
 
